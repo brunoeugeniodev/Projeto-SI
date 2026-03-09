@@ -260,18 +260,6 @@ O não cumprimento desta política poderá resultar em:
 
 ---
 
-# 🎥 Demonstração
-
-Para validação da atividade será gravado um vídeo de até **5 minutos**, apresentando:
-
-- A organização escolhida
-- A importância da política de segurança
-- A análise de riscos
-- As medidas adotadas para proteger os ativos da empresa
-- Como a política garante a **Confidencialidade, Integridade e Disponibilidade**
-
----
-
 # 👨‍💻 Autor
 
 **Bruno Eugênio**  
